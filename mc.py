@@ -1,6 +1,6 @@
 import random
 print("Välkommen till Minecraft!")
-name = input("Vad heter du? ")
+name = input("Vad heter du? ") # spelarens namn, string
 print(f"Hej {name}, låt oss börja spela Minecraft!")
 print("Du möter en zombie, skit också!")
 player_health = 100 # spelarens hälsa, en integer
